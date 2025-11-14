@@ -12,6 +12,9 @@ Two machine learning models were developed and evaluated:
 The goal was to identify the most accurate model for predicting booking completion and provide business recommendations that can improve customer engagement and booking conversions.
 
 ---
+### *Complete Analysis Notebook:* https://nbviewer.org/github/BrentOchieng/flight-booking-prediction-ml/blob/main/BRITISH_AIRWAYS_JOB_SIMULATION.ipynb
+
+---
 
 #  Problem Statement
 
