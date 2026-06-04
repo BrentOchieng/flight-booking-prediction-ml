@@ -6,13 +6,13 @@ This project focuses on predicting whether a customer will **complete a flight b
 
 Two machine learning models were developed and evaluated:
 
-- **Logistic Regression**
 - **Random Forest Classifier**
+- **XGBOOST**
 
 The goal was to identify the most accurate model for predicting booking completion and provide business recommendations that can improve customer engagement and booking conversions.
 
 ---
-### *Complete Analysis Notebook:* https://nbviewer.org/github/BrentOchieng/flight-booking-prediction-ml/blob/main/BRITISH_AIRWAYS_JOB_SIMULATION.ipynb
+### *Complete Analysis Notebook:* 
 
 ---
 
@@ -34,6 +34,7 @@ This project builds a machine learning classification system to predict whether 
 ### Categorical Encoding  
 - One-hot encoding for flight day (`Mon–Sun`)
 - Sales channels converted to numerical values
+- one-hot encoding for trip type (onewaytrip-roundtrip)
 
 ### Feature Selection  
 Used the following features:
